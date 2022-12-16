@@ -8,3 +8,9 @@ My name is Javes Hernandez and I recently graduated high school. Some of my hobb
 2. Web Development
 3. HTML
 4. CSS
+
+## What I've done so far 
+
+file:///C:/Users/vahej/Desktop/Html%20projects/HTML%20Excercises/Masonry.html
+file:///C:/Users/vahej/Desktop/MyTube/index.html
+file:///C:/Users/vahej/Desktop/Html%20projects/HTML%20Excercises/webpage.html
