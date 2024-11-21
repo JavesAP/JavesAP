@@ -1,5 +1,5 @@
 # 💫 Hello, I'm Javes Hernandez
-🔭 Learning full stack developer <br>🌱 I’m currently learning React and Typescript<br>💬 Ask me about video games 
+🔭 Learning full stack developer <br>🌱 I’m currently learning React and Typescript<br>💬 Ask me about what gamese I enjoy
 
 
 ## 🌐 Socials
